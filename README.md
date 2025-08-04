@@ -1,53 +1,62 @@
 # Reflections
 
-A versioned collection of personal reflections on time, logic, systems, information, and the boundaries of thought.  
-This repository hosts the **Wiki** that serves as my open writing lab, and a GitHub Actions pipeline to produce PDF booklets from it.
+A versioned collection of personal reflections on time, logic, systems, information, and the boundaries of thought.
 
-## What is this?
+This repository powers an open notebook — a writing lab where ideas are shaped, tested, and rewritten.  
+It is built for slow thinking, recursive insight, and public traceability.
 
-This is not a blog in the traditional sense.  
-It is a **versioned, evolving notebook** — where ideas mature through writing and rewriting.  
-You’re invited to read, question, reuse, or build upon what's here.
+## 📖 What is this?
 
-## Structure
+This is not a traditional blog. There is no linear feed, no fixed audience, no trending topics.
 
--  **Wiki**: All content lives in the [Wiki](../../wiki) — each page is a standalone entry or chapter.
--  **GitHub Actions**: Periodically builds the entire Wiki into a formatted PDF release.
--  **Releases**: See [Releases](../../releases) for downloadable snapshots in PDF format.
--  **LICENSE**: Content is shared under Creative Commons BY-SA 4.0.
+It is a **versioned, non-linear notebook**. Each entry is a snapshot of reasoning, often philosophical, sometimes technical, always unfinished.
 
-## Why version a blog?
+The central content lives in the **[Wiki](../../wiki)**, where each page functions as a standalone reflection.  
+Ideas evolve across time, edits are tracked, and previous thoughts are not erased — they are archived.
 
-Ideas evolve.  
-Writing is thinking.  
-This repository:
-- Preserves each version of a reflection (via Git).
-- Allows branching and refinement without fear.
-- Offers a growing, open trace of intellectual development.
+## 🧠 Why version a blog?
 
-## 📚 Topics I explore
+Writing is thinking. Ideas change. Beliefs break and reform.  
+This repository provides:
+
+- A full history of every change and rewrite (via Git).
+- A structure for branching thoughts, dead ends, and alternative views.
+- A stable archive of intellectual evolution over time.
+
+## 📚 Topics explored
 
 - The illusion of time travel  
-- The role of information in causality  
-- Infinities, recursion, and system limits  
-- Language as interface to existence  
-- Computation as epistemology  
-- False problems and how to detect them  
+- Information as the substance of causality  
+- Infinities, recursion, and paradox  
+- Consciousness and computation  
+- Language and the boundaries of meaning  
+- The epistemology of software  
+- The limits of machines and minds  
 
-## 🖨️ Download as book
+## 🖨️ Read as book
 
-Compiled releases are available as PDF snapshots of the Wiki.  
-You can read it like a book, cite it, or share it.
+All wiki entries are periodically compiled into PDF booklets.  
+These releases serve as printable or downloadable editions of the reflections.
 
-[Go to Releases](../../releases)
+➡️ [Go to Releases](../../releases)
+
+## 📂 Structure
+
+- **Wiki** → [Main content lives here](../../wiki)  
+- **Releases** → Built PDFs of all wiki pages  
+- **Actions** → GitHub Actions auto-compile the wiki  
+- **LICENSE** → Creative Commons BY-SA 4.0
 
 ## 👤 Author
 
 **Rafael Rodríguez** (`rafageist`)  
-- ORCID: [0009-0008-8424-3857](https://orcid.org/0009-0008-8424-3857)  
-- Website: [rafageist.com](https://rafageist.com)
+- Website: [rafageist.com](https://rafageist.com)  
+- ORCID: [0009-0008-8424-3857](https://orcid.org/0009-0008-8424-3857)
 
-## License
+## 📜 License
 
-All text is licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-You may copy, modify, and redistribute with proper attribution and under the same terms.
+All content in this repository is published under  
+**[Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**.
+
+You may copy, modify, redistribute, and even build upon this work,  
+as long as you attribute it properly and preserve the same license.
