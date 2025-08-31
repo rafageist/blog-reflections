@@ -23,20 +23,21 @@ Example:
 3. Open a terminal in the `/logic` folder.  
 4. Load a file into Prolog:
 
-   ```prolog
-   swipl
-   ?- [2025.011.education].
-  ```
+```prolog
+swipl
+?- [2025.011.education].
+```
 
 5. Run queries, for example:
 
-  ```prolog
-    ?- es_medio_y_fin(estudiar, aprender).
-    true.
-    
-    ?- no_equivalente(educar, adoctrinar).
-    true.
-  ```
+```prolog
+ ?- es_medio_y_fin(estudiar, aprender).
+ true.
+ 
+ ?- no_equivalente(educar, adoctrinar).
+ true.
+```
+
 ## Purpose
 
 These files are not full applications but conceptual models.
