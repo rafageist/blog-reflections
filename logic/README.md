@@ -27,7 +27,9 @@ Example:
    swipl
    ?- [2025.011.education].
   ```
+
 5. Run queries, for example:
+
   ```prolog
     ?- es_medio_y_fin(estudiar, aprender).
     true.
