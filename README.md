@@ -1,37 +1,42 @@
 # Reflections
 
-A versioned collection of personal reflections on time, logic, systems, information, and the boundaries of thought.
+A versioned collection of personal reflections on diverse topics: time, logic, systems, information, language, technology, and the limits of thought.
 
-This repository is an open notebook — a writing lab where ideas are shaped, tested, and rewritten.  
-It is built for slow thinking, recursive insight, and public traceability.
+This repository is not a blog in the usual sense. It is an open notebook — a writing lab where ideas are shaped, tested, revised, and reinterpreted.  
+The goal is not to reach final answers, but to preserve the history of questions and the evolution of reasoning.
 
 ## What is this?
 
-This is not a traditional blog. There is no linear feed, no fixed audience, no trending topics.  
+- No linear feed.  
+- No fixed audience.  
+- No trending topics.  
 
-It is a **versioned, non-linear notebook**. Each entry is a snapshot of reasoning: often philosophical, sometimes technical, always provisional.  
+It is a **non-linear, versioned notebook**.  
+Each entry is a snapshot of reasoning — sometimes philosophical, sometimes technical, always provisional.  
 
 The central content lives in the **[Wiki](../../wiki)**, where each page functions as a standalone reflection.  
-Ideas evolve across time, edits are tracked, and previous thoughts are not erased — they are archived.
+Ideas evolve across time, edits are tracked, and previous thoughts are not erased — they remain as part of the record.
 
-## Why version a blog?
+## Why version reflections?
 
-Writing is thinking. Ideas change. Beliefs break and reform.  
+Writing is a process of thinking. Ideas change. Beliefs fracture and reform.  
 This repository provides:
 
-- A full history of every change and rewrite (via Git).
-- A structure for branching thoughts, dead ends, and alternative views.
-- A stable archive of intellectual evolution over time.
+- A full history of changes and rewrites (via Git).  
+- A structure for branching thoughts, counterpoints, and alternative lines of reasoning.  
+- A stable archive of intellectual evolution across time.  
 
 ## Topics explored
 
-- The illusion of time travel  
-- Information as the substance of causality  
+The reflections are deliberately diverse. Examples include:  
+
+- The illusion of time travel and the logic of causality  
+- Information as the fabric of reality  
 - Infinities, recursion, and paradox  
 - Consciousness and computation  
-- Language and the boundaries of meaning  
+- Language and its boundaries  
 - The epistemology of software  
-- The limits of machines and minds  
+- The limits of machines, systems, and minds  
 
 ## Read as book
 
@@ -45,13 +50,13 @@ These releases serve as printable or downloadable editions of the reflections.
 - **Wiki** → [Main content](../../wiki)  
 - **Releases** → Compiled PDFs of wiki pages  
 - **Actions** → Automated builds via GitHub Actions  
-- **LICENSE** → Creative Commons BY-SA 4.0
+- **LICENSE** → Creative Commons BY-SA 4.0  
 
 ## Author
 
 **Rafael Rodríguez** (`rafageist`)  
 - Website: [rafageist.com](https://rafageist.com)  
-- ORCID: [0009-0008-8424-3857](https://orcid.org/0009-0008-8424-3857)
+- ORCID: [0009-0008-8424-3857](https://orcid.org/0009-0008-8424-3857)  
 
 ## License
 
